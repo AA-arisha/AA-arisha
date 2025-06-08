@@ -32,7 +32,7 @@
 | Project | Description |
 |--------|-------------|
 | [Dental Clinic Website](https://github.com/AA-arisha/clinic-website-ui.git) | Responsive dental clinic site using HTML, CSS & Bootstrap |
-| [Dessert Shop Website](https://github.com/AA-arisha/dessert-website) | PHP-powered product showcase for dessert items |
+| [The Dessert Cart ](https://github.com/AA-arisha/dessert-website) | PHP-powered product showcase for dessert items |
 | [Hair Salon Website](https://github.com/AA-arisha/hair-salon-site) | Multi-section salon website with booking layout |
 | [Food Delivery System](https://github.com/AA-arisha/foodpanda-cpp) | Console-based food ordering system built in C++ |
 
