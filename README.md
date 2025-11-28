@@ -1,13 +1,13 @@
 # 👋 Hi there! I'm Arisha Adnan
 
-🎓 First-year BSCS Student | 💻 Web Developer | 🚀 Passionate Learner  
+🎓 BSCS Student | 💻 Web Developer | 🚀 Passionate Learner  
 🌱 Currently building real-world projects & exploring internship opportunities  
 
 ---
 
 ## 💡 About Me
 
-- 🎓 Computer Science undergrad (1st year)
+- 🎓 Computer Science undergrad 
 - 💡 Passionate about web development, automation, and software engineering
 - 🧠 Currently learning **React**, **Git**, and improving my backend skills
 - 🌐 Built websites using HTML, CSS, Bootstrap, and PHP
