@@ -1,4 +1,6 @@
-# Arisha Adnan
+# Arisha Adnan 🌸
 
-Computer Science undergraduate and web developer with experience building practical web and software projects.  
-Interested in collaborating and contributing to real-world applications.
+Computer Science undergrad who loves turning ideas into pretty, functional web apps ✨  
+I build things with code, curiosity, and a little chaos 💻💫  
+
+Currently exploring real-world projects, creative UIs, and collaborations that actually *do* something.
